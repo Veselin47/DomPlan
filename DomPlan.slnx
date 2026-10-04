@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DomPlan.Domain/DomPlan.Domain.csproj" />
+  <Project Path="DomPlan/DomPlan.csproj" />
+</Solution>

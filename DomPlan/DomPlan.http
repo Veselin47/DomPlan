@@ -1,0 +1,6 @@
+@DomPlan_HostAddress = http://localhost:5083
+
+GET {{DomPlan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
